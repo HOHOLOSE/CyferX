@@ -1,16 +1,18 @@
 [
-  {
-    "title": "Auto Farm Script",
-    "game": "Blox Fruits",
-    "gameid": "2753915549",
-    "youtube": "https://youtube.com/watch?v=dQw4w9WgXcQ",
-    "script": "loadstring(game:HttpGet('https://example.com/script.lua'))()"
-  },
-  {
-    "title": "Fisch OP Script",
-    "game": "Fisch",
-    "gameid": "16732694052",
-    "youtube": "https://youtube.com/watch?v=dQw4w9WgXcQ",
-    "script": "loadstring(game:HttpGet('https://example.com/script2.lua'))()"
-  }
+{
+"title":"Blox Fruits Auto Farm",
+"game":"Blox Fruits",
+"gameid":"2753915549",
+"youtube":"https://youtube.com/watch?v=dQw4w9WgXcQ",
+"key":"FREE123",
+"script":"loadstring(game:HttpGet('https://example.com/script.lua'))()"
+},
+{
+"title":"Brookhaven Admin Script",
+"game":"Brookhaven",
+"gameid":"4924922222",
+"youtube":"https://youtube.com/watch?v=dQw4w9WgXcQ",
+"key":"FREE123",
+"script":"print('Brookhaven Script Loaded')"
+}
 ]
